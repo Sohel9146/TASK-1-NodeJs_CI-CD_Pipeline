@@ -116,19 +116,19 @@ docker run -p 3000:3000 sohel7866/nodejs-demo-app
 ## 📸 Screenshots
 
 ### 1. Jenkins Dashboard
-![Jenkins Dashboard](screenshots/1-jenkins-dashboard.png)
+![Jenkins Dashboard](screenshots/1-Jenkins-Dashboard.png)
 
 ### 2. Build Status Output
-![Build Status](screenshots/2-build-Status-output.png)
+![Build Status](screenshots/2-Build-Status-Output.png)
 
 ### 3. Pipeline Stages
 ![Pipeline Stages](screenshots/3-Pipeline_Stages.png)
 
 ### 4. DockerHub Image
-![DockerHub](screenshots/4-dockerhub-image.png)
+![DockerHub](screenshots/4-Dockerhub-Image.png)
 
 ### 5. Application Running
-![Browser Output](screenshots/5-browser-output.png)
+![Browser Output](screenshots/5-Browser-Output.png)
 
 ---
 
