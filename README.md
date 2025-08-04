@@ -83,7 +83,7 @@ Secrets like DockerHub username and password are stored in Jenkins using:
 ## 🚀 How to Run the App Locally
 
 ```bash
-git clone https://github.com/yourusername/TASK-1-NodeJs_CI-CD_Pipeline.git
+git clone https://github.com/sohel7866/TASK-1-NodeJs_CI-CD_Pipeline.git
 cd TASK-1-NodeJs_CI-CD_Pipeline
 npm install
 node index.js
